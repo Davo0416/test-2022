@@ -1,0 +1,25 @@
+
+.smiley{
+	height: 150px;
+	width: 150px;
+	padding: 20px;
+}
+
+li{
+	padding-right: 80px;
+	padding-left: 80px;
+	font-size:25px;
+}
+
+h1{
+	padding:50px;
+}
+
+a.navbar-brand{
+	font-size:40px;
+}
+
+a{
+	padding-right: 30px;
+	padding-left: 30px;
+}
